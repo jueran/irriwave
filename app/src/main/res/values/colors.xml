@@ -3,4 +3,72 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <!--不透明度转16进制，0是完全透明，100是完全不透明
+    5 - 0D
+    10 - 19
+    20 - 32
+    30 - 4C
+    40 - 64
+    50 - 7F
+    60 - 99
+    70 - AF
+    80 - CC
+    90 - E5
+    -->
+
+    <color name="status_bar_color">#4bcaff</color>
+    <color name="toolbar_color">#4bcaff</color>
+    <color name="toolbar_title_color">#252a2f</color>
+    <color name="toolbar_text_btn_color">#373e44</color>
+    <color name="toolbar_text_btn_disabled_color">#979fa5</color>
+    <color name="toolbar_text_btn_pressed_color">#7F373e44</color>
+
+    <color name="global_background_color">#f5f9fd</color>
+    <color name="global_divider_color">#eceff1</color>
+
+    <color name="c1_1">#ff4bcaff</color>
+    <color name="c1_1_80">#CC4bcaff</color>
+    <color name="c1_1_20">#324bcaff</color>
+    <color name="c1_1_30">#4C4bcaff</color>
+    <color name="c1_1_60">#994bcaff</color>
+
+    <color name="c1_2">#ff4bacff</color>
+    <color name="c1_2_60">#994bacff</color>
+    <color name="c1_2_20">#344bacff</color>
+
+    <color name="c2_1">#ff00dedb</color>
+    <color name="c2_2">#ff1ad59a</color>
+    <color name="c2_3">#ff7cdb5a</color>
+    <color name="c2_4">#ffffc947</color>
+    <color name="c2_5">#ffff8585</color>
+
+    <color name="c3_1">#ff252a2f</color>
+    <color name="c3_2">#ff373e44</color>
+    <color name="c3_3">#ff4b545b</color>
+    <color name="c3_4">#ff727b81</color>
+    <color name="c3_5">#ff979fa5</color>
+    <color name="c3_6">#ffb3babf</color>
+    <color name="c3_7">#ffc9cdd0</color>
+
+    <color name="c4_1">#ffffff</color>
+    <color name="c4_1_15">#22ffffff</color>
+    <color name="c4_1_50">#7fffffff</color>
+    <color name="c4_1_70">#afffffff</color>
+    <color name="c4_1_80">#ccffffff</color>
+    <color name="c4_2">#fff5f9fd</color>
+    <color name="c4_3">#ff4bcaff</color>
+    <color name="c4_4">#ffeceff1</color>
+    <color name="c4_5">#ffdadfe2</color>
+    <color name="c4_6">#fff1f5f9</color>
+    <color name="c4_6_50">#7ff1f5f9</color>
+    <color name="c4_7">#fff5fff5</color>
+
+    <color name="cc1">#ffac1b</color>
+    <color name="cc2">#e7fbf6</color>
+    <color name="cc3">#e8f7ff</color>
 </resources>

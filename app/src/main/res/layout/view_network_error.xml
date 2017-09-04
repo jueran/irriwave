@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/network_error_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="visible"
+        tools:visibility="visible">
+
+        <ImageView
+            android:id="@+id/network_broken_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/error_view_margin_top"
+            android:src="@drawable/ic_network_error" />
+
+        <TextView
+            android:id="@+id/network_broken_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/network_error_tips"
+            android:textColor="@color/c3_4"
+            android:textSize="@dimen/t5"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/reload_btn"
+            style="@style/btn_c1_1_pressed_c1_2_disable_c1_1_60_4dp"
+            android:layout_width="400dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="50dp"
+            android:text="@string/reload" />
+    </LinearLayout>
+</FrameLayout>

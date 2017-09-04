@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tag_request_stack" type="id">将requestTask的引用保存在activity的根view中</item>
+
+    <item name="selector_ic_toolbar_back" type="drawable" />
+    <item name="selector_ic_toolbar_close" type="drawable" />
+
+    <item name="transient_notification" type="layout" />
+</resources>
