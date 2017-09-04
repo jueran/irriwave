@@ -4,7 +4,7 @@ import android.content.Context;
 import android.os.Handler;
 
 import com.irrigate.R;
-import com.irrigate.core.helper.baseinterface.ILoadingView;
+import com.salted.core.core.helper.baseinterface.ILoadingView;
 
 /**
  * Description:

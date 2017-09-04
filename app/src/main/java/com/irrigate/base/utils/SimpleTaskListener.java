@@ -3,9 +3,9 @@ package com.irrigate.base.utils;
 
 import com.irrigate.Application;
 import com.irrigate.R;
-import com.irrigate.core.net.HQException;
-import com.irrigate.core.net.HttpResult;
-import com.irrigate.core.net.TaskListener;
+import com.salted.core.core.net.HQException;
+import com.salted.core.core.net.HttpResult;
+import com.salted.core.core.net.TaskListener;
 
 /**
  * 说明：简化请求逻辑

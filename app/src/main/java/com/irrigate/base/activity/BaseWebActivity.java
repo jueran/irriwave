@@ -22,7 +22,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 import com.irrigate.R;
-import com.irrigate.core.helper.systemadvance.StatusBarManager;
+import com.salted.core.core.helper.systemadvance.StatusBarManager;
 
 import junit.framework.Assert;
 
