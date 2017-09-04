@@ -8,4 +8,17 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TabLayoutText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">@dimen/t5</item>
+        <item name="android:textColor">@color/c2_1</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="PrimaryButton">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/t3</item>
+        <item name="android:textColor">@color/selector_c4_1_disabled_c3_7</item>
+        <item name="android:background">@drawable/selector_rect_c1_1_4dp</item>
+    </style>
+
 </resources>

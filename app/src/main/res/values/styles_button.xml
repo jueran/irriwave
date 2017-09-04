@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="btn_c1_1_pressed_c1_2_disable_c1_1_60_4dp">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_marginLeft">@dimen/global_margin_horizontal</item>
+        <item name="android:layout_marginRight">@dimen/global_margin_horizontal</item>
+        <item name="android:background">@drawable/selector_rect_c1_1_pressed_c1_2_disable_c1_1_60_global</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/c4_1</item>
+        <item name="android:textSize">@dimen/t3</item>
+    </style>
+
+</resources>

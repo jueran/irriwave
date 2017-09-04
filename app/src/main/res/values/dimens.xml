@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- UI全局规范尺寸 -->
+
+    <!-- 全局状态栏、Tab栏、导航栏高度 -->
+    <dimen name="global_bar_height">48dp</dimen>
+
+    <!-- 主要按钮的高度，如确认按钮 -->
+    <dimen name="primary_button_height">29dp</dimen>
+
+    <!-- 主要按钮的水平padding -->
+    <dimen name="primary_button_padding_horizontal">15dp</dimen>
+
+    <!-- 较大按钮的高度，如登录按钮 -->
+    <dimen name="large_button_height">42dp</dimen>
+
+    <!-- 较大按钮的宽度，如登录按钮 -->
+    <dimen name="large_button_width">330dp</dimen>
+
+    <!-- 按钮通用圆角大小 -->
+    <dimen name="global_button_corner_radius">4dp</dimen>
+
+    <!-- 全局的水平边距 -->
+    <dimen name="global_margin_horizontal">15dp</dimen>
+
+    <!-- 全局的模块间距 -->
+    <dimen name="global_margin_model">15dp</dimen>
+
+    <!-- 全局的分割线宽度 -->
+    <dimen name="global_divider_width">0.67dp</dimen>
+
+    <!-- 全局的文本内容间距 -->
+    <dimen name="global_text_margin_horizontal">5dp</dimen>
+
+    <!-- 网络错误页图片上间距 -->
+    <dimen name="error_view_margin_top">90dp</dimen>
+
+    <!-- 网络错误页图片大小 -->
+    <dimen name="error_view_image_width">144dp</dimen>
+
+    <!-- 工具栏标题文字大小 -->
+    <dimen name="toolbar_title_text_size">16sp</dimen>
+    <!-- 工具栏标题文字最大宽度 -->
+    <dimen name="toolbar_title_text_max_width">160dp</dimen>
+    <!-- 工具栏按钮右侧间距 -->
+    <dimen name="toolbar_button_right_margin">5dp</dimen>
+    <!-- 工具栏文字按钮文字大小 -->
+    <dimen name="toolbar_button_text_size">14sp</dimen>
+    <!-- 工具栏文字按钮最大宽度 -->
+    <dimen name="toolbar_button_text_max_width">80dp</dimen>
+    <!-- 工具栏图片按钮左右padding（等于按钮间距的2/1） -->
+    <dimen name="toolbar_image_button_padding">10dp</dimen>
+    <!-- 工具栏文字按钮左右padding（等于按钮间距的2/1） -->
+    <dimen name="toolbar_text_button_padding">9dp</dimen>
+
+    <!-- SwipeRefreshLayout下拉圈下拉距离 -->
+    <dimen name="swipe_refresh_layout_end">160dp</dimen>
+
+
+    <!-- 字体 -->
+    <dimen name="t1">36sp</dimen>
+    <dimen name="t2">34.66sp</dimen>
+    <dimen name="t3">32sp</dimen>
+    <dimen name="t4">30sp</dimen>
+    <dimen name="t5">28sp</dimen>
+    <dimen name="t6">26sp</dimen>
+    <dimen name="t7">24sp</dimen>
+    <dimen name="t8">22sp</dimen>
+    <dimen name="t9">20sp</dimen>
+    <dimen name="t10">18sp</dimen>
+</resources>

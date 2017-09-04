@@ -2,7 +2,7 @@ package com.irrigate.activity.main;
 
 import android.app.Activity;
 
-import com.hqyxjy.core.helper.activityhelper.ViewHelper; // todo
+import com.irrigate.core.helper.activityhelper.ViewHelper;
 
 /**
  * Description:

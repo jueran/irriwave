@@ -5,10 +5,9 @@ import android.os.Parcelable;
 import android.support.annotation.NonNull;
 
 import com.irrigate.R;
+import com.irrigate.base.activity.BaseActivity;
 
-import com.hqyxjy.word.base.activity.BaseActivity;
-
-import butterknife.ButterKnife; // todo 增加依赖
+import butterknife.ButterKnife;
 
 /**
  * Description:

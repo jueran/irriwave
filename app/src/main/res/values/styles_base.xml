@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="HorizontalDivider">
+        <item name="android:layout_height">@dimen/global_divider_width</item>
+        <item name="android:background">@color/global_divider_color</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="HorizontalDividerWithPadding" parent="HorizontalDivider">
+        <item name="android:layout_marginLeft">@dimen/global_margin_horizontal</item>
+        <item name="android:layout_marginRight">@dimen/global_margin_horizontal</item>
+    </style>
+
+    <style name="VerticalDivider">
+        <item name="android:layout_width">@dimen/global_divider_width</item>
+        <item name="android:background">@color/global_divider_color</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="PageDefaultPadding">
+        <item name="android:paddingLeft">@dimen/global_margin_horizontal</item>
+        <item name="android:paddingRight">@dimen/global_margin_horizontal</item>
+    </style>
+
+    <style name="PageDefaultMargin">
+        <item name="android:layout_marginLeft">@dimen/global_margin_horizontal</item>
+        <item name="android:layout_marginRight">@dimen/global_margin_horizontal</item>
+    </style>
+
+    <style name="HorizontalFill">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="VerticalFill">
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="AnimationActivity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenExitAnimation">@anim/hold_static</item>
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_in_right</item>
+    </style>
+
+</resources>
