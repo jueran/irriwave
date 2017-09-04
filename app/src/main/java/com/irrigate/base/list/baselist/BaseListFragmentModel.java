@@ -4,19 +4,18 @@ import android.content.Context;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
-import com.irrigate.core.net.HttpResult;
-import com.irrigate.core.net.TaskListener;
-import com.irrigate.core.net.executor.ResultConverter;
-import com.irrigate.core.net.executor.TaskExecutor;
-import com.irrigate.core.net.executor.TaskPair;
-import com.irrigate.core.util.ListUtil;
+import com.salted.core.core.net.HttpResult;
+import com.salted.core.core.net.TaskListener;
+import com.salted.core.core.net.executor.ResultConverter;
+import com.salted.core.core.net.executor.TaskExecutor;
+import com.salted.core.core.net.executor.TaskPair;
+import com.salted.core.core.util.ListUtil;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-
 
 /**
  * Created by xinyuanzhong on 2017/6/13.

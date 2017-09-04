@@ -1,7 +1,7 @@
 package com.irrigate.base.list.baselist;
 
 
-import com.irrigate.core.net.HttpResult;
+import com.salted.core.core.net.HttpResult;
 
 /**
  * Created by xinyuanzhong on 2017/6/19.

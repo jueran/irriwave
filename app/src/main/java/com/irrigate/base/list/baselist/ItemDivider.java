@@ -18,7 +18,7 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
 import com.irrigate.R;
-import com.irrigate.core.widget.loadmorerecyclerview.RecyclerViewUtils;
+import com.salted.core.core.widget.loadmorerecyclerview.RecyclerViewUtils;
 
 /**
  * Created by xinyuanzhong on 2017/7/19.

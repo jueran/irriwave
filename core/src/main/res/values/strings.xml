@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Core</string>
+    <string name="network_error_tips">网络正在开小差，请稍后重试</string>
+
+    <string name="reload">重新连接网络</string>
+    <string name="data_empty_tips">没有找到结果，下拉刷新试试</string>
+</resources>

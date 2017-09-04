@@ -3,7 +3,7 @@ package com.irrigate.base.list.baselist;
 import android.content.Context;
 
 import com.irrigate.R;
-import com.irrigate.core.util.ToastUtil;
+import com.salted.core.core.util.ToastUtil;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -3,8 +3,8 @@ package com.irrigate;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import com.irrigate.core.util.CatchCrash;
-import com.irrigate.core.util.ToastUtil;
+import com.salted.core.core.util.CatchCrash;
+import com.salted.core.core.util.ToastUtil;
 
 import java.lang.ref.WeakReference;
 

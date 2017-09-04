@@ -20,14 +20,13 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-
 import com.irrigate.R;
 import com.irrigate.base.activity.BaseActivity;
-import com.irrigate.core.helper.activityhelper.ViewHelper;
-import com.irrigate.core.util.UIUtils;
-import com.irrigate.core.widget.loadmorerecyclerview.HeaderAndFooterRecyclerViewAdapter;
-import com.irrigate.core.widget.loadmorerecyclerview.LoadMoreRecyclerView;
-import com.irrigate.core.widget.loadmorerecyclerview.OnLoadMoreEvent;
+import com.salted.core.core.helper.activityhelper.ViewHelper;
+import com.salted.core.core.util.UIUtils;
+import com.salted.core.core.widget.loadmorerecyclerview.HeaderAndFooterRecyclerViewAdapter;
+import com.salted.core.core.widget.loadmorerecyclerview.LoadMoreRecyclerView;
+import com.salted.core.core.widget.loadmorerecyclerview.OnLoadMoreEvent;
 
 import java.util.ArrayList;
 import java.util.HashMap;

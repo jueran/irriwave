@@ -2,7 +2,7 @@ package com.irrigate.activity.main;
 
 import android.app.Activity;
 
-import com.irrigate.core.helper.activityhelper.ViewHelper;
+import com.salted.core.core.helper.activityhelper.ViewHelper;
 
 /**
  * Description:

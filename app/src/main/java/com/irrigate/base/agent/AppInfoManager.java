@@ -2,8 +2,8 @@ package com.irrigate.base.agent;
 
 import android.text.TextUtils;
 
+import com.irrigate.base.utils.SharedPreferenceUtil;
 import com.irrigate.constant.SharedPrefKeys;
-import com.irrigate.util.SharedPreferenceUtil;
 
 /**
  * Created by ldf on 17/8/2.

@@ -2,9 +2,9 @@ package com.irrigate.base.list.baselist;
 
 import android.content.Context;
 
-import com.irrigate.core.net.AbNameValuePair;
-import com.irrigate.core.net.HQHttpRequest;
-import com.irrigate.core.net.TaskListener;
+import com.salted.core.core.net.AbNameValuePair;
+import com.salted.core.core.net.HQHttpRequest;
+import com.salted.core.core.net.TaskListener;
 
 import java.util.List;
 import java.util.Map;

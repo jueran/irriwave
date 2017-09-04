@@ -15,14 +15,14 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.irrigate.R;
-import com.irrigate.core.fragment.VisibleStateFragment;
-import com.irrigate.core.helper.activityhelper.IViewHelperHolder;
-import com.irrigate.core.helper.activityhelper.ViewHelper;
-import com.irrigate.core.util.UIUtils;
-import com.irrigate.core.widget.BaseToolBar;
-import com.irrigate.core.widget.DataStateMaskView;
-import com.irrigate.core.widget.ViewClickListener;
 import com.irrigate.widget.LoadingViewManager;
+import com.salted.core.core.fragment.VisibleStateFragment;
+import com.salted.core.core.helper.activityhelper.IViewHelperHolder;
+import com.salted.core.core.helper.activityhelper.ViewHelper;
+import com.salted.core.core.util.UIUtils;
+import com.salted.core.core.widget.BaseToolBar;
+import com.salted.core.core.widget.DataStateMaskView;
+import com.salted.core.core.widget.ViewClickListener;
 
 /**
  * Description:
