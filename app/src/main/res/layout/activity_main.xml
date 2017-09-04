@@ -6,6 +6,6 @@
     android:layout_height="match_parent"
     android:background="@color/global_background_color"
     android:orientation="vertical"
-    tools:context="com.irrigate.activity.main.MainActivity">
+    tools:context="com.irrigate.activity.main.mainactivity.MainActivity">
 
 </LinearLayout>

@@ -12,7 +12,7 @@
         android:theme="@style/AppTheme">
         <activity android:name=".activity.host.EditHostActivity" />
         <activity
-            android:name=".activity.main.MainActivity"
+            android:name=".activity.main.mainactivity.MainActivity"
             android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait">
             <intent-filter>
