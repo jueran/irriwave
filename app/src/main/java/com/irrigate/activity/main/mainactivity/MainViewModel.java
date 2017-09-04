@@ -1,4 +1,4 @@
-package com.irrigate.activity.main;
+package com.irrigate.activity.main.mainactivity;
 
 import android.os.Parcel;
 import android.os.Parcelable;

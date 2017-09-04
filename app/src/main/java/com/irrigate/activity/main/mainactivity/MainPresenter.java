@@ -1,4 +1,4 @@
-package com.irrigate.activity.main;
+package com.irrigate.activity.main.mainactivity;
 
 import android.app.Activity;
 
